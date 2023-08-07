@@ -1,4 +1,3 @@
-![MasterHead](https://drive.google.com/file/d/1f6D5TN5F1tKbS6c_Q3fHRf_Zy3VZNolg/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Kunwardeep Singh</h1>
 <h3 align="center">A budding developer from India</h3>
 
