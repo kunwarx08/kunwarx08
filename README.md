@@ -18,8 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kunwardeep-singh08/](https://www.linkedin.com/in/kunwardeep-singh08/)
 
-- ⚡ Fun fact **Arya : "Wait..I can't see"
-Waif : "That's your problem"**
+- ⚡ Fun fact **I code so well, even my errors are flawless.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
