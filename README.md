@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kunwardeep.s.08@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kunwardeep-singh08/](https://www.linkedin.com/in/kunwardeep-singh08/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kunwardeep-singh08/](https://www.linkedin.com/in/kunwardeepsingh08/)
 
 - ⚡ Fun fact **I code so well, even my errors are flawless.**
 
