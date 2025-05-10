@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My Mental and Physical health.**
 
-- 🌱 I’m currently learning **Java,DSA,Web Development,MERN**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **How not to fuckup**
 
